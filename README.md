@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##I am Mikhail Rasnyuk and i am a junior data analyst
+## My name is Mikhail Rasnyuk and i am a junior data analyst
 
 
 **mrasnyuk/mrasnyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
